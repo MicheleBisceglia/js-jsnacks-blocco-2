@@ -17,7 +17,7 @@ console.log(somma) */
 
 //Versione con while
 let counter = 0;
-let = somma = 0;
+let somma = 0;
 while (counter < 5)  {
     const numero = parseInt(prompt("scrivi un numero"))
     console.log(numero)
